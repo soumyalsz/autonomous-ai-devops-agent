@@ -15,13 +15,13 @@
 ## Architecture & Verification
 
 ### 1. n8n Integration Pipeline
-![n8n Workflow Layout](./screenshots/n8n workflow.png)
+![n8n Workflow Layout](./n8n workflow.png)
 
 ### 2. Local LLM Compute Core
-![Ollama Active Models](./screenshots/llm lists.png)
+![Ollama Active Models](./llm lists.png)
 
 ### 3. Automated Code Review Execution
-![Agent Bug Report Output](./screenshots/execution terminal.png)
+![Agent Bug Report Output](./execution terminal.png)
 
 ## Setup & Run
 
